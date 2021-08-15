@@ -1,0 +1,27 @@
+body{
+    text-align:center;
+    background-color: lightpink;
+}
+p:hover{
+    color:red;
+}
+#marqueestyle{
+    background-color:red;
+    color:white;
+}
+img{
+    width:300px;
+    height:200px;
+}
+.line {
+    height: 6px;
+    background-color: #000000;
+    width: 70px;
+    margin: 8px auto;
+}
+#karate{
+    height:400px;
+}
+#sports{
+    width:450px;
+}
